@@ -1,2 +1,2 @@
 this is my internship project for the eight   semester
-dashboard  link:https://public.tableau.com/views/co2emission_17141172709750/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+dashboard  link:https://public.tableau.com/app/profile/surya.kishore.gara/viz/co2_emission_17141203981040/Dashboard1?publish=yes
